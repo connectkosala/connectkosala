@@ -7,7 +7,6 @@
 
 - 🔭 &nbsp; I’m currently learning more about software development. 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; I was educated up to A / L at T/Kantale Central College. 
 - 💼 I also have knowledge of web development, UI / UX designing, database management and frameworks.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
